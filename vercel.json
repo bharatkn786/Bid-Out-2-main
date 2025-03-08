@@ -2,6 +2,13 @@
   "routes": [
     { "src": "^/$", "dest": "/pages/front-account.html" },
     { "src": "^/about.html$", "dest": "/pages/about.html" },
+    { "src": "^/add.html$", "dest": "/pages/add.html" },
+    { "src": "^/contact.html$", "dest": "/pages/contact.html" },
+    { "src": "^/description.html$", "dest": "/pages/description.html" },
+    { "src": "^/favourite.html$", "dest": "/pages/favourite.html" },
+    { "src": "^/payment.html$", "dest": "/pages/payment.html" },
+    { "src": "^/product-account.html$", "dest": "/pages/product-account.html" },
+    { "src": "^/verify.html$", "dest": "/pages/verify.html" },
     { "src": "^(.*)$", "dest": "/pages/$1" }
   ]
 }
