@@ -1,7 +1,6 @@
 import React from "react";
 import { Route, Routes } from 'react-router-dom'
 import PrivateRoute from "./components/PrivateRoute";
-import RouteAccess from "./hooks/RouteAccess";
 import Login from "./Pages/Login";
 import Profile from "./Pages/Profile";
 import Error from "./Pages/Error";
