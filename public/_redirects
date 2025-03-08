@@ -1,3 +1,10 @@
 / /pages/front-account.html 200
 /about.html /pages/about.html 200
-/* /$1 200
+/add.html /pages/add.html 200
+/contact.html /pages/contact.html 200
+/description.html /pages/description.html 200
+/favourite.html /pages/favourite.html 200
+/payment.html /pages/payment.html 200
+/product-account.html /pages/product-account.html 200
+/verify.html /pages/verify.html 200
+/* /pages/$1 200
