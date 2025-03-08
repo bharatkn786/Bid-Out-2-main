@@ -1,6 +1,6 @@
 {
   "routes": [
-    { "src": "/$", "dest": "/front-account.html" },
-    { "src": "/(.*)", "dest": "/$1" }
+    { "src": "^/$", "dest": "/front-account.html" },
+    { "src": "^(.*)$", "dest": "/$1" }
   ]
 }
