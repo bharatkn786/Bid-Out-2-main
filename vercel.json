@@ -1,5 +1,5 @@
 {
   "routes": [
-    { "src": "^/product-account$", "dest": "/pages/product-account.html" }
+    { "src": "^/$", "dest": "/pages/front-account.html" }
   ]
 }
